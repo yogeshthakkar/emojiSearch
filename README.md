@@ -1,7 +1,7 @@
 Emoji Search
 ---
 
-Created with *create-react-app*. See the [full create-react-app guide].
+Created with *create-react-app*.
 
 
 
